@@ -1,0 +1,7 @@
+
+# CREATE .GITIGNORE WHEN EVERYTHING IS STILL IN THE U (untracked) STATUS
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.terraform.*
+*.tfvars
